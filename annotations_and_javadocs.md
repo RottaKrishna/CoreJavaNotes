@@ -435,7 +435,6 @@ Version: 17
 
 4)
 
-
 ## ✅ Built-in Java Annotations (For Custom Annotations)
 
 Java provides special annotations that can be used **on custom annotations** to control how and where they behave. These annotations don't affect the logic of your code directly but **guide the Java compiler and runtime** in handling your custom annotations.
